@@ -16,5 +16,8 @@
   { "id": 15, "name": "Sambal Ayam", "price": 0, "quantity": 0, "capital": 0, "category_id": 4 },
   { "id": 16, "name": "Es Teh", "price": 0, "quantity": 0, "capital": 0, "category_id": 2 },
   { "id": 17, "name": "Es Jeruk", "price": 0, "quantity": 0, "capital": 0, "category_id": 2 },
-  { "id": 18, "name": "Nasi Putih", "price": 0, "quantity": 0, "capital": 0, "category_id": 4 }
+  { "id": 18, "name": "Nasi Putih", "price": 0, "quantity": 0, "capital": 0, "category_id": 4 },
+  { "id": 19, "name": "Nasi Dadar Bakar Tongkol (Bakar)", "price": 0, "quantity": 0, "capital": 0, "category_id": 1 },
+  { "id": 20, "name": "Paket Hemat Tongkol (Es Teh)", "price": 0, "quantity": 0, "capital": 0, "category_id": 3 },
+  { "id": 21, "name": "Paket Hemat Bakar Tongkol + Es Teh", "price": 0, "quantity": 0, "capital": 0, "category_id": 3 },
 ]
