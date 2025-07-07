@@ -1,14 +1,6 @@
 [
-  {
-    "id": 1,
-    "name": "Makanan"
-  },
-  {
-    "id": 2,
-    "name": "Minuman"
-  },
-  {
-    "id": 3,
-    "name": "Paket Hemat"
-  }
+  { "id": 1, "name": "Makanan" },
+  { "id": 2, "name": "Minuman" },
+  { "id": 3, "name": "Paket Hemat" },
+  { "id": 4, "name": "Tambahan" }
 ]
